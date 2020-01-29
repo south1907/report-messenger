@@ -19,3 +19,5 @@ or `python3 main.py > out.txt` to write report to file
 ## TODO:
 1. report by year param
 2. report group
+3. limit by param
+4. option ignore hello message 
